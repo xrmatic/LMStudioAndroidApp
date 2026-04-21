@@ -1,0 +1,29 @@
+# Generated files
+.gradle/
+build/
+captures/
+.externalNativeBuild/
+.cxx/
+local.properties
+
+# IDE files
+*.iml
+.idea/
+.DS_Store
+*.swp
+
+# Android
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+
+# Keystore files (NEVER commit!)
+*.jks
+*.keystore
+
+# Test output
+test-results/
